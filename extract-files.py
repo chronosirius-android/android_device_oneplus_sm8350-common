@@ -18,6 +18,7 @@ from extract_utils.main import (
     ExtractUtilsModule,
 )
 
+
 namespace_imports = [
     'device/oneplus/sm8350-common',
     'hardware/oplus',
